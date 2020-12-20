@@ -11,13 +11,12 @@
 
 </head>
 <body>
-    <?php
-
-    $str_1 = "<i>Ищанова Саида</i>";
-    $str_2 = "<b>30 лет</b>";
-    echo $str_1." ".$str_2. "<br /><hr />";
-    define("PI",3.1415926535);
-    echo PI;
+<?php
+$str_1 = "<i>Ищанова Саида</i>";
+$str_2 = "<b>30 лет</b>";
+echo $str_1." ".$str_2. "<br /><hr />";
+define("PI",3.1415926535);
+echo PI;
 
     ?>
 </body>
