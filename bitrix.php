@@ -23,7 +23,7 @@ if(isset($_SESSION["page"]))
 <body>
 <h1> Сайт BITRIX</h1>
 <a href="fact.php">fact.php</a>
-<a href="index.php">index.php</a>
+<a href="about.php">index.php</a>
 <form method="post">
     <p>
     login

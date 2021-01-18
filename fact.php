@@ -21,7 +21,7 @@ if(isset($_SESSION["page"]))
 </head>
 <body>
 <h1>fact</h1>
-<a href="index.php">index.php</a>
+<a href="about.php">index.php</a>
 <a href="bitrix.php">bitrix.php</a>
 <form method="post">
     <p>
